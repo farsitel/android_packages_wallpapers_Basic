@@ -21,7 +21,7 @@
     <!-- General -->
     <skip />
     <!-- Application name -->
-    <string name="wallpapers">کاغذ دیواری‌های زندهٔ آندروید</string>
+    <string name="wallpapers">کاغذ دیواری‌های متحرک</string>
 
     <!-- Wallpapers: -->
     <skip />    
@@ -29,30 +29,28 @@
     <!-- Wallpaper showing the camera preview -->
     <string name="wallpaper_walkaround">دوربین</string>
     <string name="wallpaper_walkaround_author">گوگل</string>
-    <string name="wallpaper_walkaround_desc">
-        هرآنچه دوربین‌تان می‌بیند را روی صفحهٔ نمایش خود ببینید و بدون خطر تصادف از گوشی استفاده کنید و راه بروید.
+    <string name="wallpaper_walkaround_desc">از صفحهٔ نمایش گوشی جلوی خود را ببینید و قدم بزنید، بدون اینکه اتفاقی برای شما بیفتد.
     </string>
 
     <!-- Wallpaper showing grass and the sky -->
     <string name="wallpaper_grass">چمنزار</string>
     <string name="wallpaper_grass_author">گوگل</string>
-    <string name="wallpaper_grass_desc">
-        موج‌هایی از چمن در نور روز یا آسمان شب.
+    <string name="wallpaper_grass_desc">موج زیبای چمنزار، زیر نور خورشید یا آسمان شب
     </string>
     
     <!-- Wallpaper showing a galaxy -->
     <string name="wallpaper_galaxy">کهکشان</string>
     <string name="wallpaper_galaxy_author">گوگل</string>
-    <string name="wallpaper_galaxy_desc">
-        کهکشانی متشکل از ستاره‌هایی که به کندی می‌چرخند.
+    <string name="wallpaper_galaxy_desc">کهکشانی متشکل از ستاره‌هایی که به آرامی می‌چرخند.
     </string>
 
     <!-- Wallpaper showing leaves floating on water -->
     <string name="wallpaper_fall">پاییز</string>
     <string name="wallpaper_fall_author">گوگل</string>
-    <string name="wallpaper_fall_desc">
-        پاییز ای سرود خیال‌انگیز، پاییز ای ترانهٔ محنت‌بار&lt;br&gt;
-        پاییز، ای تبسم افسرده، بر چهرهٔ طبیعت افسونکار
+    <string name="wallpaper_fall_desc">پاییز، پادشاه فصل‌ها، با همهٔ زیبایی‌هایش
+        &lt;br&gt;
+        با برگ‌هایی به همه رنگ&lt;br&gt;
+        با همهٔ غم و اندوهش
     </string>
     
     <!-- Wallpaper showing a clock -->
@@ -65,8 +63,8 @@
 	<!-- Wallpaper showing nexus -->
     <string name="wallpaper_nexus">نکسوس</string>
     <string name="wallpaper_nexus_author">گوگل</string>
-    <string name="wallpaper_nexus_desc">\
-        نگاهی به شبکهٔ عصبی.
+    <string name="wallpaper_nexus_desc">
+نگاهی به شبکهٔ عصبی
     </string>
     
     <!-- Polar clock: title of settings activity -->
@@ -79,7 +77,7 @@
     <string name="palette">پالت رنگ</string>
 
 	<!-- Polar clock: palette name -->
-	<string name="palette_gray">قلزی</string>
+	<string name="palette_gray">فلزی</string>
 	<!-- Polar clock: palette name -->
 	<string name="palette_violet">نیمه‌شب</string>
 	<!-- Polar clock: palette name -->
@@ -94,5 +92,4 @@
 	<string name="palette_zenburn">سالاد میوه</string>
 	<!-- Polar clock: palette name -->
 	<string name="palette_oceanic">لیزر آبی</string>
-
 </resources>
